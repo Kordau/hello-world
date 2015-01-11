@@ -1,2 +1,3 @@
 # hello-world
-Huzzah!
+
+# This is all about getting Git done
